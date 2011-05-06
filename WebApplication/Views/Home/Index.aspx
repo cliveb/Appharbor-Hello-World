@@ -5,6 +5,6 @@
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
-    <h2>Welcome</h2>
+    <h2>Welcome to cliveb's hello world hosted by @AppHarbor Azure done right</h2>
     <p><%: ViewData["Message"] %></p>
 </asp:Content>
